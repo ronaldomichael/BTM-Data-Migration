@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397174893810",
+    "project_id": "btm-data-collector",
+    "storage_bucket": "btm-data-collector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397174893810:android:b816210818deed79d3346b",
+        "android_client_info": {
+          "package_name": "com.example.fsdt_btm_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLcwyC8CSc5XMLOYYDeZC06FBsJrCAsMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397174893810:android:66621f73ef9a542cd3346b",
+        "android_client_info": {
+          "package_name": "fsdt.datacolector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLcwyC8CSc5XMLOYYDeZC06FBsJrCAsMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
